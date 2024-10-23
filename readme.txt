@@ -79,7 +79,7 @@ The section should now look something like this:
 "WorldsData":
 	{
 		"lightingConfig": 0,
-		"objectSpawnersArr": ["custom/cherno-plane-fast-travel-objects.json"],
+		"objectSpawnersArr": ["custom/sakhal-planefast-travel-objects.json"],
 		"environmentMinTemps": [-3, -2, 0, 4, 9, 14, 18, 17, 13, 11, 9, 0],
 		"environmentMaxTemps": [3, 5, 7, 14, 19, 24, 26, 25, 18, 14, 10, 5],
 		"wetnessWeightModifiers": [1.0, 1.0, 1.33, 1.66, 2.0],
