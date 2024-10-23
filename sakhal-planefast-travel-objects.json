@@ -1,0 +1,961 @@
+{
+    "Objects": [
+       
+        {
+            "name": "Land_Static_An2",
+            "pos": [
+                7510.3037109375,
+                14.155397415161133,
+                13260.896484375
+            ],
+            "ypr": [
+                -165.35618591308595,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+      
+       
+        {
+            "name": "Land_Static_An2",
+            "pos": [
+                13696.1416015625,
+                16.463600158691408,
+                7915.14501953125
+            ],
+            "ypr": [
+                -169.36940002441407,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        
+      
+        {
+            "name": "Land_Static_An2",
+            "pos": [
+                7227.0927734375,
+                2.7205560207366945,
+                6985.5673828125
+            ],
+            "ypr": [
+                -173.99278259277345,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999984502792358,
+            "enableCEPersistency": 0
+        },
+       
+       
+        {
+            "name": "Land_Static_An2",
+            "pos": [
+                986.8305053710938,
+                2.8335487842559816,
+                7389.2509765625
+            ],
+            "ypr": [
+                -179.94485473632813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                975.1127319335938,
+                3.452280282974243,
+                7404.990234375
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                988.650390625,
+                3.3721792697906496,
+                7445.47705078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                1009.5963745117188,
+                3.715555191040039,
+                7496.43212890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                997.8655395507813,
+                4.012903213500977,
+                7393.0947265625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                1014.0307006835938,
+                3.289400100708008,
+                7432.62158203125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                1035.9349365234376,
+                4.28001594543457,
+                7481.5009765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                1052.14404296875,
+                4.425104141235352,
+                7552.5
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                977.8484497070313,
+                3.5166492462158205,
+                7380.7138671875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7502.48193359375,
+                14.990865707397461,
+                13268.3720703125
+            ],
+            "ypr": [
+                -96.22570037841797,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7525.29833984375,
+                15.870498657226563,
+                13282.51953125
+            ],
+            "ypr": [
+                70.37835693359375,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7536.5771484375,
+                14.789488792419434,
+                13254.62109375
+            ],
+            "ypr": [
+                69.27904510498047,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999985694885254,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7550.97021484375,
+                16.20949935913086,
+                13291.2998046875
+            ],
+            "ypr": [
+                -104.6734390258789,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999977350234985,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7564.97021484375,
+                15.187100410461426,
+                13262.5
+            ],
+            "ypr": [
+                77.97308349609375,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7582.56982421875,
+                16.427051544189454,
+                13301.7431640625
+            ],
+            "ypr": [
+                -104.39146423339844,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991655349731,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7599.193359375,
+                16.64578628540039,
+                13276.2783203125
+            ],
+            "ypr": [
+                58.21996307373047,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999991059303284,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7625.54443359375,
+                16.83978843688965,
+                13304.1005859375
+            ],
+            "ypr": [
+                -95.37406158447266,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999986886978149,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                13683.7998046875,
+                17.658899307250978,
+                7919.93994140625
+            ],
+            "ypr": [
+                47.815494537353519,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                13680.900390625,
+                18.000600814819337,
+                7932.56982421875
+            ],
+            "ypr": [
+                91.20649719238281,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                13714.044921875,
+                17.839120864868165,
+                7941.244140625
+            ],
+            "ypr": [
+                68.89511108398438,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                13722.099609375,
+                17.602399826049806,
+                7928.14990234375
+            ],
+            "ypr": [
+                -97.09469604492188,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                13758.2998046875,
+                19.61370086669922,
+                7947.9501953125
+            ],
+            "ypr": [
+                -89.16582489013672,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999995231628418,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                13765.580078125,
+                19.32981300354004,
+                7934.1865234375
+            ],
+            "ypr": [
+                73.34522247314453,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                13799.2001953125,
+                20.574199676513673,
+                7955.97021484375
+            ],
+            "ypr": [
+                -87.34969329833985,
+                0.0,
+                0.0
+            ],
+            "scale": 0.9999994039535523,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                13807.4287109375,
+                20.782655715942384,
+                7940.93310546875
+            ],
+            "ypr": [
+                89.97347259521485,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998807907105,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                13828.703125,
+                21.852933883666993,
+                7959.412109375
+            ],
+            "ypr": [
+                -106.86457061767578,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                13838.2119140625,
+                20.705493927001954,
+                7945.5322265625
+            ],
+            "ypr": [
+                -82.94712829589844,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7232.33935546875,
+                3.372203826904297,
+                6968.86669921875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7237.46875,
+                3.3721389770507814,
+                7018.634765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7208.99853515625,
+                3.3721961975097658,
+                7013.36181640625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7202.41357421875,
+                3.372213363647461,
+                7042.4189453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7231.5390625,
+                3.3720951080322267,
+                7048.337890625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7195.130859375,
+                3.3722095489501955,
+                7074.28515625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7225.9619140625,
+                3.3722171783447267,
+                7079.8134765625
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7214.56201171875,
+                3.372224807739258,
+                7137.0
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7182.49560546875,
+                3.3721866607666017,
+                7130.72314453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7172.9375,
+                3.3721790313720705,
+                7185.8564453125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                7205.1884765625,
+                3.3722400665283205,
+                7185.3955078125
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+      
+        {
+            "name": "Land_Static_An2",
+            "pos": [
+                11967.365234375,
+                8.027654647827149,
+                2163.58642578125
+            ],
+            "ypr": [
+                -141.60044860839845,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                11949.505859375,
+                8.15658950805664,
+                2171.506591796875
+            ],
+            "ypr": [
+                66.9964828491211,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999997615814209,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                11980.4912109375,
+                8.50764274597168,
+                2203.072021484375
+            ],
+            "ypr": [
+                -119.85765838623047,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999998211860657,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                11993.3271484375,
+                9.852048873901368,
+                2179.966796875
+            ],
+            "ypr": [
+                -102.82308959960938,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                12045.2001953125,
+                9.686759948730469,
+                2206.889892578125
+            ],
+            "ypr": [
+                -86.59182739257813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                12031.599609375,
+                9.302080154418946,
+                2230.949951171875
+            ],
+            "ypr": [
+                -131.14950561523438,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999993443489075,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                12095.599609375,
+                8.764249801635743,
+                2236.5
+            ],
+            "ypr": [
+                -101.59171295166016,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.999998927116394,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                12088.2275390625,
+                8.586963653564454,
+                2255.623779296875
+            ],
+            "ypr": [
+                0.0,
+                0.0,
+                -0.0
+            ],
+            "scale": 1.0,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                12135.1396484375,
+                8.899202346801758,
+                2284.25341796875
+            ],
+            "ypr": [
+                -119.91926574707031,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                12149.5,
+                8.760919570922852,
+                2266.25
+            ],
+            "ypr": [
+                -139.31585693359376,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                12159.7578125,
+                9.152176856994629,
+                2285.4013671875
+            ],
+            "ypr": [
+                -119.91926574707031,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999996423721314,
+            "enableCEPersistency": 0
+        },
+       
+        
+        {
+            "name": "Land_Static_An2",
+            "pos": [
+                2254.668701171875,
+                12.983824729919434,
+                3431.88525390625
+            ],
+            "ypr": [
+                -178.92547607421876,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999988079071045,
+            "enableCEPersistency": 0
+        },
+       
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                2242.835693359375,
+                13.260156631469727,
+                3448.72900390625
+            ],
+            "ypr": [
+                -86.59182739257813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                2271.1611328125,
+                12.67643928527832,
+                3476.455322265625
+            ],
+            "ypr": [
+                -86.59182739257813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                2282.736083984375,
+                12.937868118286133,
+                3441.33984375
+            ],
+            "ypr": [
+                -86.59182739257813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                2318.241943359375,
+                12.612306594848633,
+                3490.393798828125
+            ],
+            "ypr": [
+                -86.59182739257813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                2331.82080078125,
+                12.570405960083008,
+                3456.119140625
+            ],
+            "ypr": [
+                -86.59182739257813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                2374.876708984375,
+                12.61231803894043,
+                3506.27880859375
+            ],
+            "ypr": [
+                -86.59182739257813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                2389.041015625,
+                12.107046127319336,
+                3477.8291015625
+            ],
+            "ypr": [
+                -86.59182739257813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                2434.561279296875,
+                10.820428848266602,
+                3490.21826171875
+            ],
+            "ypr": [
+                -86.59182739257813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                2425.732177734375,
+                12.793725967407227,
+                3523.99267578125
+            ],
+            "ypr": [
+                -86.59182739257813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        },
+        {
+            "name": "StaticObj_Roadblock_Wood_Small_DE",
+            "pos": [
+                2472.15478515625,
+                14.859682083129883,
+                3524.68896484375
+            ],
+            "ypr": [
+                -86.59182739257813,
+                0.0,
+                -0.0
+            ],
+            "scale": 0.9999992847442627,
+            "enableCEPersistency": 0
+        }
+    ]
+}
